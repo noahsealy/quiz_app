@@ -1,4 +1,4 @@
-# Quiz App
+# Quiz App (1.0.0)
 
 ## What is Quiz App?
 
@@ -20,5 +20,6 @@ After selecting the file and clicking "Continue", the user will be prompted for 
 
 ## Contact
 If you have any questions or suggestions regarding Quiz App, feel free to email me at noah.sealy@dal.ca. Thanks!
+Future Quiz App updates to come!
 
-# Happy Quizzing!
+# Happy Quizzing! :)

@@ -18,4 +18,7 @@ The .csv file will need to have a specific format in order for the software to r
 
 After selecting the file and clicking "Continue", the user will be prompted for "How Many Quiz Rounds", this will have to be a numeric value which specifies the amount of times Quiz App will ask questions. After this, simply click "Continue to Quiz" in order to begin the quiz, and start learning! 
 
+## Contact
+If you have any questions or suggestions regarding Quiz App, feel free to email me at noah.sealy@dal.ca. Thanks!
+
 # Happy Quizzing!

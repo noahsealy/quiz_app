@@ -11,7 +11,10 @@ Until more support comes to making running Quiz App easier, simply download the 
 ## How to Use
 
 Upon running Quiz App, users may select "Start Quiz", which will take them to the "Enter a file" screen, from here the users must enter in the name of a .csv file that is in the same directory as quiz.ipynb. This .csv will act as the question bank for Quiz App, and is what allows Quiz App to test the user on whatever they choose. 
+
 The .csv file will need to have a specific format in order for the software to run properly. This special format will have Questions in the first column, Answers in the next, and a special "highscore" value in the third column (for starting out, this can be just set to 0). A screenshot of the proper formatting is included below for reference. 
+
+![Quiz App CSV Formatting Example](https://github.com/noahsealy/quiz_app/blob/master/src/images/Quiz%20App%20CSV%20Example.png)
 
 After selecting the file and clicking "Continue", the user will be prompted for "How Many Quiz Rounds", this will have to be a numeric value which specifies the amount of times Quiz App will ask questions. After this, simply click "Continue to Quiz" in order to begin the quiz, and start learning! 
 
